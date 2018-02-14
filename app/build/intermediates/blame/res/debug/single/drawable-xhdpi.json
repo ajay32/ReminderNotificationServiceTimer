@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macmine/Downloads/AndroidReminder-master/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/macmine/Downloads/AndroidReminder-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmine/Downloads/AndroidReminder-master/C:\\Users\\shadn\\Documents\\GitHub\\AndroidReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "/Users/macmine/Downloads/AndroidReminder-master/C:\\Users\\shadn\\Documents\\GitHub\\AndroidReminder\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/macmine/Downloads/AndroidReminder-master/C:\\Users\\sakura\\src\\ITC162\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "/Users/macmine/Downloads/AndroidReminder-master/C:\\Users\\sakura\\src\\ITC162\\ch11_ex4_Reminder\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

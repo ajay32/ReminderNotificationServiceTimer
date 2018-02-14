@@ -1,0 +1,4 @@
+#Wed Feb 14 17:17:26 IST 2018
+base.0=/Users/macmine/Downloads/AndroidReminder-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/macmine/Downloads/AndroidReminder-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

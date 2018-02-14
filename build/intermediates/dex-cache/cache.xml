@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shadn\Documents\GitHub\AndroidReminder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1c8dcaf027bc1861279c5ede65087248ef0e449">
+        <dex dex="C:\Users\shadn\Documents\GitHub\AndroidReminder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e8d09356e9c12a04fb3c487eb68d003535cec54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shadn\Documents\GitHub\AndroidReminder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\shadn\Documents\GitHub\AndroidReminder\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8bbba29e12b34ec0e7763ed0af0eef5efa740223\classes.dex" />
+    </item>
+
+</items>
